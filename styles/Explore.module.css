@@ -1,0 +1,13 @@
+/* .title{
+    color: rgb(66, 16, 4);
+} */
+.single{
+    padding: 25px 16px;
+    background: #fff;
+    display: block;
+    margin: 20px 10px;
+    border-left: 8px solid #fff;
+}
+.single:hover{
+    border-left: 8px solid #4979ff;
+}
